@@ -1,13 +1,13 @@
 This repository contains a Django-based API for user management and friend request functionality. Follow the steps below to set up and configure the project.
 
-**Table of Contents:
-Prerequisites
-Installation
-Configuration
-Database Setup
-Running the Server
-API Endpoints
-Prerequisites
+**Table of Contents:**
+-Prerequisites
+-Installation
+-Configuration
+-Database Setup
+-Running the Server
+-API Endpoints
+-Prerequisites
 
 Make sure you have the following installed on your system:
 
